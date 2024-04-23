@@ -1,12 +1,11 @@
 body {
-  background: url("img/messi-white.jpg");
-  background-size: cover;
+  background-color: white;
+  color: black;
 }
 
 .dark-Mode{
-  background: url("img/messi-black.jpg");
-  background-size: cover;
-  color: black;
+  background: black;
+  color: white;
 }
 .topnav {
   background-color: #333;
