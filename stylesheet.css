@@ -1,11 +1,11 @@
 body {
-  background: url("img/messi-white.jpg");
+  background: white;
   background-size: cover;
   color: black;
 }
 
 .dark-mode {
-  background-color: black;
+  background: black;
   color: white;
 }
 
